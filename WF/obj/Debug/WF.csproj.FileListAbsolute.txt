@@ -1,0 +1,9 @@
+c:\users\aniceto\documents\visual studio 2013\Projects\WF\WF\bin\Debug\WF.exe.config
+c:\users\aniceto\documents\visual studio 2013\Projects\WF\WF\obj\Debug\WF.csprojResolveAssemblyReference.cache
+c:\users\aniceto\documents\visual studio 2013\Projects\WF\WF\obj\Debug\WF.Form1.resources
+c:\users\aniceto\documents\visual studio 2013\Projects\WF\WF\obj\Debug\WF.Properties.Resources.resources
+c:\users\aniceto\documents\visual studio 2013\Projects\WF\WF\obj\Debug\WF.csproj.GenerateResource.Cache
+c:\users\aniceto\documents\visual studio 2013\Projects\WF\WF\bin\Debug\WF.exe
+c:\users\aniceto\documents\visual studio 2013\Projects\WF\WF\bin\Debug\WF.pdb
+c:\users\aniceto\documents\visual studio 2013\Projects\WF\WF\obj\Debug\WF.exe
+c:\users\aniceto\documents\visual studio 2013\Projects\WF\WF\obj\Debug\WF.pdb
